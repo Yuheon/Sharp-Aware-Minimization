@@ -2,9 +2,12 @@
 
 pytorch
 
-dataset : Fshion MNIST
+dataset : Fashion MNIST
 
 model : simple CNN model
+
+SGD : epoch 100, 200
+SAM : epoch 100
 
 
 
