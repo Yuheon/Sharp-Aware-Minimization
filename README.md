@@ -1,4 +1,4 @@
-# Sharpness-Aware-Minimization For Efficiently improving Generalization
+# Sharpness-Aware Minimization For Efficiently improving Generalization
 
 pytorch
 
